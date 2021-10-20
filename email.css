@@ -1,0 +1,49 @@
+img{
+    
+    width: 250px;
+    display: block;
+    
+}
+
+h3{
+    
+    line-height: 0.1;
+    font-size: 25px;
+
+}
+
+#p1{
+    
+    line-height: 0.1;
+    font-size: 19px;
+
+}
+
+#p2{
+    
+    padding-top: 15px;
+    line-height: 0.5;
+    font-size: 20px;
+}
+
+#p3{
+    
+    line-height: 0.5;
+    font-size: 20px;
+
+}
+#p4{
+    
+    line-height: 0.5;
+    font-size: 20px;
+
+}
+
+
+
+  
+@media only screen and (max-width: 600px) {
+    body {
+      width:100%;
+    }
+  }
